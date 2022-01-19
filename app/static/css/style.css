@@ -1,0 +1,50 @@
+.alert-info {
+  width: 50%;
+  margin: auto;
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+.content-section {
+  padding: 50px 0;
+  border-top: 1px solid #e7e7e7;
+}
+
+.push {
+clear: both;
+height: 4em;
+}
+
+.intro-divider {
+  width: 400px;
+  border-top: 1px solid #f8f8f8;
+  border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+.wrapper {
+min-height: 100%;
+height: auto !important;
+height: 100%;
+margin: 0 auto -4em;
+}
+
+.outer {
+  display: table;
+  position: absolute;
+  height: 70%;
+  width: 100%;
+}
+
+.middle {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.inner {
+  margin-left: auto;
+  margin-right: auto;
+}
